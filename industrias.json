@@ -1,3 +1,6 @@
+
 {
-    "industria": "base64({ \"industria\": \"\", \"host\": \"\", \"user\": \"\", \"password\": \"\", \"dbname\": \"\" })"
+    "_comment": "As credenciais precisam estar em base64 ou alterar o script replicacao para outra criptografia",
+    "industria1": "base64({ \"industria1\": \"\", \"host\": \"\", \"user\": \"\", \"password\": \"\", \"dbname\": \"base_industria1\" })", 
+    "industria2": "base64({ \"industria2\": \"\", \"host\": \"\", \"user\": \"\", \"password\": \"\", \"dbname\": \"base_industria2\" })"
 }
